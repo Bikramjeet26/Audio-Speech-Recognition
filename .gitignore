@@ -1,0 +1,10 @@
+﻿models/
+data/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+save_dir/
+*.deb
+*.safetensors
+*.pt
+*.bin
